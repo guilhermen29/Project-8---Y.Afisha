@@ -26,14 +26,7 @@ Project-8---Y.Afisha/
 │   ├── costs.csv
 │
 ├── notebooks/
-│   └── analysis.ipynb
-│
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── cohort_analysis.py
-│   ├── marketing_metrics.py
-│   └── visualizations.py
-│
+│   └── notebook.ipynb
 ├── README.md
 └── requirements.txt
 ```
